@@ -2,6 +2,6 @@
 Neil's dark theme
 <!--
     npm install -g @vscode/vsce
-    vsce create-publisher "Neil Cuadros Miraval"
     vsce package
+    code --install-extension n-dark-1.0.3.vsix
 -->
